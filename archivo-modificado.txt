@@ -1,1 +1,1 @@
-Hola
+Este es un archivo de ejemplo para el curso de GitHub
